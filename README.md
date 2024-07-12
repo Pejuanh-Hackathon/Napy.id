@@ -1,7 +1,7 @@
 # GHacks_5.0-Solution
 This repository houses the solution for Garuda Hacks 5.0
 
-# Napi Chatbot Application
+# Napy.id
 
 Napy.id is a comprehensive platform designed to assist ex-convicts in reintegrating into society by providing job finding and skill training services. Our mission is to offer a second chance to individuals who have served their time and are looking to rebuild their lives. By equipping them with necessary skills and connecting them with potential employers, we aim to reduce recidivism and promote a more inclusive society.
 
