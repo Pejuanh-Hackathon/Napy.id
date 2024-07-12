@@ -4,7 +4,7 @@ import httpx
 from dotenv import load_dotenv
 import os
 
-AIRTABLE_API_KEY = 'patAy9r6R8bCogufV.2988cd7c661cd671e24f59e190fd3f27751ea0e2531c57151e7dab6a48ae8d69'
+AIRTABLE_API_KEY = 'AIRTABLE_API_KEY'
 AIRTABLE_BASE_ID = 'appYb7lU24MNZ1Fj3'
 AIRTABLE_TABLE_NAME = 'User'
 
